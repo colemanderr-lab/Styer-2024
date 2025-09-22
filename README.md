@@ -1,5 +1,4 @@
-# Styer-2024
-Improving rice drought tolerance through host-mediated microbiome selection
+# Improving rice drought tolerance through host-mediated microbiome selection
 
 This repository houses scripts used for data analysis and figure generation in "Improving rice drought tolerance through host-mediated microbiome selection" (Styer et al. 2024, https://doi.org/10.7554/eLife.97015.1).
 
